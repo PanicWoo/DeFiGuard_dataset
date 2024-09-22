@@ -1,0 +1,44 @@
+{
+    "hash": "0x016667dc8628e2965b56dda72811bdf1f15dc5b1086e26daca53a641f7d4e230",
+    "chain": "Binance",
+    "U": [
+        0
+    ],
+    "V": [
+        1
+    ],
+    "feat": [
+        [
+            0,
+            1,
+            0,
+            0,
+            0.0,
+            1.0,
+            0.0,
+            1.0,
+            -1.0
+        ],
+        [
+            0,
+            0,
+            0,
+            1,
+            1.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "nodeCount": 2,
+    "edgeCount": 1,
+    "tokenCount": 1,
+    "nodes": [
+        "0x39bea96e13453ed52a734b6aceed4c41f57b2271",
+        "0xc02f080c482e81b8b3b954853b976ad2daa7cb88"
+    ],
+    "tokens": [
+        "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab"
+    ]
+}

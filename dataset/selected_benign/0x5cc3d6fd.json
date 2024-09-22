@@ -1,0 +1,44 @@
+{
+    "hash": "0x5cc3d6fdd363fcb1b53fef84d77fa6463c5f88532f80e46bac5c0e6f28ff76cb",
+    "chain": "Ethereum",
+    "U": [
+        0
+    ],
+    "V": [
+        1
+    ],
+    "feat": [
+        [
+            0,
+            0,
+            1,
+            0,
+            0.0,
+            1.0,
+            0.0,
+            1.0,
+            -1.0
+        ],
+        [
+            0,
+            0,
+            0,
+            1,
+            1.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "nodeCount": 2,
+    "edgeCount": 1,
+    "tokenCount": 1,
+    "nodes": [
+        "0x3225e3c669b39c7c8b3e204a8614bb218c5e31bc",
+        "0x74c3b2d22ed5990b9ab1f77bd3054d4fd4afcf96"
+    ],
+    "tokens": [
+        "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+    ]
+}
